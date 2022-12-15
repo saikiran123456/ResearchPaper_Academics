@@ -1,5 +1,7 @@
 # MyResearchPaper Publication
 Back in 2019 I started got interested in Machine Learning, Artificial Intelligence and I have done the project during my Computer Engineering Graduation (B-Tech First Class Hons). 
+![image](https://user-images.githubusercontent.com/37768258/207777866-3701c15d-1975-4cdd-a346-9edea92d1d95.png)
+
 I along with my team of 3 people came up with a Finteh Problem or any Government Organizations/Institutes facing Problems.
 
 The main aim of this project is to present the efficient and robust framework for detection as well as 
@@ -12,4 +14,5 @@ forms, invoices, reports, employee records, health record, etc. Logo can be cons
 and popular salient entities presented in administrative documents. The manual 
 identification/verification of logos is not an easy task, as the documents in-flow in organizations is 
 growing rapidly.
+
 
