@@ -15,4 +15,11 @@ and popular salient entities presented in administrative documents. The manual
 identification/verification of logos is not an easy task, as the documents in-flow in organizations is 
 growing rapidly.
 
+System Product Overview:
+![image](https://user-images.githubusercontent.com/37768258/207778390-3f505603-c4e2-47b8-bc08-ceb373c6d430.png)
+![image](https://user-images.githubusercontent.com/37768258/207778421-6c30afe7-b571-4adc-aa0a-1a6ac83e1c71.png)
+![image](https://user-images.githubusercontent.com/37768258/207778460-36b24252-1999-451d-8614-87f491a8caa6.png)
+![image](https://user-images.githubusercontent.com/37768258/207778485-39d7ec10-a7ae-464d-b5fc-e29733b00548.png)
+
+
 
