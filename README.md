@@ -1,19 +1,12 @@
 # MyResearchPaper Publication (Logo Detection and Recognition from Scanned Images)
-Back in 2019 I started got interested in Machine Learning, Artificial Intelligence and I have done the Research project during my Computer Engineering Graduation (B-Tech First Class Hons) on Fintech Domain
+Back in 2019, I started getting interested in Machine Learning, Artificial Intelligence and I did a Research project during my Computer Engineering Graduation (B-Tech First Class Hons) in Fintech Domain
 ![image](https://user-images.githubusercontent.com/37768258/207777866-3701c15d-1975-4cdd-a346-9edea92d1d95.png)
 
 I along with my team of 3 people came up with a Finteh Problem or any Government Organizations/Institutes facing Problems.
 
-The main aim of this project is to present the efficient and robust framework for detection as well as 
-recognition of logo images.
+The main aim of this project is to present an efficient and robust framework for the detection as well as recognition of logo images.
 
-Public organizations, institutes, companies and private sectors are generally interested in 
-implementing digital mail rooms to improve the efficiency of paper-intensive workflows and to reduce 
-the burden of manual processing of different administrative documents including incoming mails, faxes, 
-forms, invoices, reports, employee records, health record, etc. Logo can be considered as an important 
-and popular salient entities presented in administrative documents. The manual 
-identification/verification of logos is not an easy task, as the documents in-flow in organizations is 
-growing rapidly.
+Public organizations, institutes, companies, and private sectors are generally interested in implementing digital mail rooms to improve the efficiency of paper-intensive workflows and to reduce the burden of manual processing of different administrative documents including incoming mail, faxes, forms, invoices, reports, employee records, health record, etc. A logo can be considered an important and popular salient entity presented in administrative documents. The manual identification/verification of logos is not an easy task, as the document in-flow in organizations is growing rapidly.
 
 System Product Overview:
 ![image](https://user-images.githubusercontent.com/37768258/207778390-3f505603-c4e2-47b8-bc08-ceb373c6d430.png)
